@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Курсы NODEjs от GeekBrains",
+  "main": "script.js",
+  "dependencies": {
+    "beeper": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://spololin@github.com/spololin/GeekBrains_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spololin/GeekBrains_nodejs/issues"
+  },
+  "homepage": "https://github.com/spololin/GeekBrains_nodejs#readme"
+}
