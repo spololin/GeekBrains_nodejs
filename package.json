@@ -2,9 +2,10 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "Курсы NODEjs от GeekBrains",
-  "main": "script.js",
+  "main": "index.js",
   "dependencies": {
-    "beeper": "^1.1.0"
+    "color-console": "0.0.1",
+    "make-beep": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {
